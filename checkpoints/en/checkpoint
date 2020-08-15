@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/shubhang/Downloads/sentiment-analysis-tensorflow-master/checkpoints/en/entf.tfl"
+all_model_checkpoint_paths: "/Users/shubhang/Downloads/sentiment-analysis-tensorflow-master/checkpoints/en/entf.tfl"
